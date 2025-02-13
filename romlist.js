@@ -1,3 +1,3 @@
 var ROMLIST = [
-    {url:"roms/oot.z64",title:"OoT"}
+    {url:"roms/zle_f.n64",title:"OoT"}
 ];
